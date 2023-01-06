@@ -1,6 +1,6 @@
 ## NETFLIX DATA DASHBOARD INSIGHTS
 # Introduction
-- Netflix is the world’s leading internet entertainment service with 223 million paid memberships in over 190 countries enjoying movies, TV series, documentaries and feature films across a wide variety of genres and languages. I was curious to analyse the content on Netflix and to create these simple, interactive and exciting visualizations with Tableau. Get induvial movie information like released year, added year, duration, genre and summary on the [Netflix](https://public.tableau.com/app/profile/vaibhav.kashyap.v.s/viz/Netflixdashboard_16716273764660/Dashboard1) dashboard.
+Netflix is the world’s leading internet entertainment service with 223 million paid memberships in over 190 countries enjoying movies, TV series, documentaries and feature films across a wide variety of genres and languages. I was curious to analyse the content on Netflix and to create these simple, interactive and exciting visualizations with Tableau. Get induvial movie information like released year, added year, duration, genre and summary on the [Netflix](https://public.tableau.com/app/profile/vaibhav.kashyap.v.s/viz/Netflixdashboard_16716273764660/Dashboard1) dashboard.
 
 # INSIGHTS
 1. **Movies vs TV shows**
