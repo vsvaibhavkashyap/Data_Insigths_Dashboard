@@ -13,6 +13,6 @@ Netflix is the world’s leading internet entertainment service with 223 million
 - We observe that both Movies and TV shows are predominantly focused on Mature Audience Only as the rating TV-MA is on top and followed by TV-14 (unsuitable for children under 14 years of age).
 
 # CONCLUSION
-- Netflix has major presence in United states and India. As the mobiles got into everyone hands, Netflix added more content from the year 2014. Netflix focus has shifted recently towards TV shows which was previously on movies. Netflix has more movies and TV shows for mature audience.
+Netflix has major presence in United states and India. As the mobiles got into everyone hands, Netflix added more content from the year 2014. Netflix focus has shifted recently towards TV shows which was previously on movies. Netflix has more movies and TV shows for mature audience.
 
 
