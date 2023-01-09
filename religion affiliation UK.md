@@ -1,4 +1,4 @@
-# Religious Affiliation in the UK - 2011 vs. 2021
+# RELIGIOUS AFFILIATION IN THE UK - 2011 VS. 2021
 
 # INTRODUCTION
 Census on religion was held on 2021 across United Kingdom (UK). As per the census results from 2011 UK had majority of Christianity religion. Comparing the results of census 2011 with 2021 results a fall in religious affiliation. Checkout the tableau dashboard on the [UK religious affiliation](https://public.tableau.com/app/profile/vaibhav.kashyap.v.s/viz/ReligiousAffiliationintheUK-2011vs_2021/Dashboard1).
